@@ -4,7 +4,7 @@
   justify-content: space-between;
 }
 
-#try-free-btn {
+#try-free-btn button {
   color: hsl(208, 11%, 55%);
   background-color: hsl(193, 100%, 96%);
   border-radius: 40px;
