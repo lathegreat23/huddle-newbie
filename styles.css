@@ -2,7 +2,7 @@
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  padding: 25px 100px;
+  padding: 25px 50px;
 }
 
 #try-free-btn button {
