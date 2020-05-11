@@ -3,3 +3,8 @@
   flex-direction: row;
   justify-content: space-between;
 }
+
+#try-free-btn {
+  color: hsl(208, 11%, 55%);
+  background-color: hsl(193, 100%, 96%);
+}
