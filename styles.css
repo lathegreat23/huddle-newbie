@@ -1,10 +1,12 @@
 body {
   margin: 0;
 }
+
 #top-hero {
   background-color: hsl(193, 100%, 96%);  
   background-image: url(images/bg-hero-desktop.svg);
 }
+
 #header-section {
   display: flex;
   flex-direction: row;
