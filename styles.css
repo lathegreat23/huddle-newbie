@@ -68,10 +68,11 @@ body {
 .huddle-box {
   display: flex;
   flex-direction: row;
-  width: 1000px;
+  width: 90%;
   height: 400px;
-  margin: 0 auto;
+  margin: 20px auto;
   box-shadow: 3px 3px 5px 6px rgba(0, 0, 0, 0.05);
+  border-radius: 10px;
 }
 
 .huddle-box-text {
