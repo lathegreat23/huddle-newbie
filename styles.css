@@ -61,3 +61,14 @@ body {
   width: 1000px;
   height: 400px;
   margin: 0 auto;
+}
+
+.huddle-box-text {
+  width: 50%;
+  height: auto;
+}
+
+.huddle-box-img {
+  width: 50%;
+  height: auto;
+}
