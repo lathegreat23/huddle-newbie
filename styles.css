@@ -40,6 +40,16 @@ body {
   padding: 0 150px 0 50px;
 }
 
+#hero-section-text button {
+  height: 50px;
+  border-radius: 30px;
+  margin-left: 50px;
+  width: 250px;
+  background-color: hsl(322, 100%, 66%);
+  font-size: 15px;
+  color: white;
+}
+
 #hero-section-img {
   width: 50%;
   height: auto;
