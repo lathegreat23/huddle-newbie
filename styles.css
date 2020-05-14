@@ -61,6 +61,7 @@ body {
   width: 1000px;
   height: 400px;
   margin: 0 auto;
+  box-shadow: 3px 3px 5px 6px rgba(0, 0, 0, 0.4);
 }
 
 .huddle-box-text {
