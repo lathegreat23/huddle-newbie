@@ -51,6 +51,11 @@ body {
 }
 
 .huddle-section {
-  width: .8vh;
-  height: .4vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.huddle-box {
+  display: flex;
+  flex-direction: row;
 }
