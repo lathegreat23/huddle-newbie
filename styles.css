@@ -72,3 +72,7 @@ body {
   width: 50%;
   height: auto;
 }
+
+.huddle-box-img img{
+  width: 100%;
+}
