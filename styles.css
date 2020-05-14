@@ -58,6 +58,6 @@ body {
 .huddle-box {
   display: flex;
   flex-direction: row;
-  width: .8vw;
-  height: .4vh;
-}
+  width: 1000px;
+  height: 400px;
+  margin: 0 auto;
