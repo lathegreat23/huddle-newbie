@@ -78,6 +78,8 @@ body {
 .huddle-box-text {
   width: 50%;
   height: auto;
+  padding: 0px 25px 0 150px;
+  margin: auto;
 }
 
 .huddle-box-img {
