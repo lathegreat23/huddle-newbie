@@ -138,6 +138,10 @@ body {
   color: #ffffff;
 }
 
+#footer-loc {
+  display: flex;
+}
+
 #footer-phone {
   display: flex;
 }
