@@ -163,6 +163,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-evenly;
+  margin: 35px 50px;
 }
 
 .link-col a {
