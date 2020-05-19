@@ -1,7 +1,9 @@
+/* 1. Global Styles */
 body {
   margin: 0;
 }
 
+/* 2. Hero Section Styles*/
 #top-hero {
   background-color: hsl(193, 100%, 96%);  
   background-image: url(images/bg-hero-desktop.svg);
@@ -59,7 +61,7 @@ body {
 #hero-section-img img {
   width: 100%;
 }
-
+/* 3. Huddle Box Styles*/
 #huddle-section {
   display: flex;
   flex-direction: column;
@@ -95,4 +97,13 @@ body {
 
 #hb-text-reverse {
   padding: 0px 50px 0 25px;
+}
+
+/* 4. Community Box Styles */
+#community-box {
+  display: flex;
+  direction: column;
+  width: 250px;
+  height: 150px;
+  margin: auto;
 }
