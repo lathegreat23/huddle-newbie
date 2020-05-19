@@ -115,9 +115,29 @@ body {
 #community-box button {
   height: 50px;
   border-radius: 30px;
-  margin-left: 50px;
+  margin: 0 auto;
   width: 250px;
   background-color: hsl(322, 100%, 66%);
   font-size: 15px;
   color: white;
+}
+
+/*Footer Menu Styles*/
+#footer-menu {
+  display: flex;
+  flex-direction: row;
+  background-color: hsl(192, 100%, 9%);
+  padding: 150px 100px;
+}
+
+#left-footer {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  padding-left: 50px;
+}
+
+.footer-icon {
+  margin: auto 0;
+  padding-right: 15px;
 }
