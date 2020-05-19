@@ -137,6 +137,14 @@ body {
   padding-left: 50px;
 }
 
+#footer-phone {
+  display: flex;
+}
+
+#footer-email {
+  display: flex;
+}
+
 .footer-icon {
   margin: auto 0;
   padding-right: 15px;
