@@ -150,3 +150,18 @@ body {
   margin: auto 0;
   padding-right: 15px;
 }
+
+#middle-footer {
+ display: flex;
+}
+
+.link-col {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.link-col a {
+  color: #ffffff;
+  text-decoration: none;
+}
