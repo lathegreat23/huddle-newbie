@@ -102,8 +102,12 @@ body {
 /* 4. Community Box Styles */
 #community-box {
   display: flex;
-  direction: column;
-  width: 250px;
+  flex-direction: column;
+  width: 450px;
   height: 150px;
   margin: auto;
+  padding: 40px 25px;
+  text-align: center;
+  box-shadow: 3px 3px 5px 6px #ccc;
+  border-radius: 10px;
 }
